@@ -1,0 +1,505 @@
+PRESS RETURN TO CONTINUE
+DATES                                                                                                                               
+---------                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+PRESS RETURN TO CONTINUE
+DATES                                                                                                                               
+---------                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+PRESS RETURN TO CONTINUE
+DATES                                                                                                                               
+---------                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+PRESS RETURN TO CONTINUE
+DATES                                                                                                                               
+---------                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+07-MAY-19                                                                                                                           
+
+107 rows selected.
+
+PRESS RETURN TO CONTINUE
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME           COMMISSION_PCT                                                           
+----------- ------------------------- -------------------- --------------                                                           
+        165 Lee                       David                            .1                                                           
+        179 Johnson                   Charles                          .1                                                           
+        164 Marvins                   Mattea                           .1                                                           
+        167 Banda                     Amit                             .1                                                           
+        173 Kumar                     Sundita                          .1                                                           
+        166 Ande                      Sundar                           .1                                                           
+        163 Greene                    Danielle                        .15                                                           
+        178 Grant                     Kimberely                       .15                                                           
+        155 Tuvault                   Oliver                          .15                                                           
+        172 Bates                     Elizabeth                       .15                                                           
+        171 Smith                     William                         .15                                                           
+        176 Taylor                    Jonathon                         .2                                                           
+        169 Bloom                     Harrison                         .2                                                           
+        170 Fox                       Tayler                           .2                                                           
+        154 Cambrault                 Nanette                          .2                                                           
+        177 Livingston                Jack                             .2                                                           
+        149 Zlotkey                   Eleni                            .2                                                           
+        153 Olsen                     Christopher                      .2                                                           
+        161 Sewall                    Sarath                          .25                                                           
+        152 Hall                      Peter                           .25                                                           
+        151 Bernstein                 David                           .25                                                           
+        162 Vishney                   Clara                           .25                                                           
+        175 Hutton                    Alyssa                          .25                                                           
+        168 Ozer                      Lisa                            .25                                                           
+        174 Abel                      Ellen                            .3                                                           
+        159 Smith                     Lindsey                          .3                                                           
+        146 Partners                  Karen                            .3                                                           
+PRESS RETURN TO CONTINUE
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME           COMMISSION_PCT                                                           
+----------- ------------------------- -------------------- --------------                                                           
+        147 Errazuriz                 Alberto                          .3                                                           
+        150 Tucker                    Peter                            .3                                                           
+        148 Cambrault                 Gerald                           .3                                                           
+        160 Doran                     Louise                           .3                                                           
+        156 King                      Janette                         .35                                                           
+        157 Sully                     Patrick                         .35                                                           
+        158 McEwen                    Allan                           .35                                                           
+        145 Russell                   John                             .4                                                           
+        198 OConnell                  Donald                                                                                        
+        199 Grant                     Douglas                                                                                       
+        200 Whalen                    Jennifer                                                                                      
+        201 Hartstein                 Michael                                                                                       
+        202 Fay                       Pat                                                                                           
+        203 Mavris                    Susan                                                                                         
+        204 Baer                      Hermann                                                                                       
+        205 Higgins                   Shelley                                                                                       
+        206 Gietz                     William                                                                                       
+        100 King                      Steven                                                                                        
+        101 Kochhar                   Neena                                                                                         
+        102 De Haan                   Lex                                                                                           
+        103 Hunold                    Alexander                                                                                     
+        104 Ernst                     Bruce                                                                                         
+        105 Austin                    David                                                                                         
+        106 Pataballa                 Valli                                                                                         
+        107 Lorentz                   Diana                                                                                         
+        108 Greenberg                 Nancy                                                                                         
+        109 Faviet                    Daniel                                                                                        
+PRESS RETURN TO CONTINUE
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME           COMMISSION_PCT                                                           
+----------- ------------------------- -------------------- --------------                                                           
+        110 Chen                      John                                                                                          
+        111 Sciarra                   Ismael                                                                                        
+        112 Urman                     Jose Manuel                                                                                   
+        113 Popp                      Luis                                                                                          
+        114 Raphaely                  Den                                                                                           
+        115 Khoo                      Alexander                                                                                     
+        116 Baida                     Shelli                                                                                        
+        117 Tobias                    Sigal                                                                                         
+        118 Himuro                    Guy                                                                                           
+        119 Colmenares                Karen                                                                                         
+        120 Weiss                     Matthew                                                                                       
+        121 Fripp                     Adam                                                                                          
+        122 Kaufling                  Payam                                                                                         
+        123 Vollman                   Shanta                                                                                        
+        124 Mourgos                   Kevin                                                                                         
+        125 Nayer                     Julia                                                                                         
+        126 Mikkilineni               Irene                                                                                         
+        127 Landry                    James                                                                                         
+        128 Markle                    Steven                                                                                        
+        129 Bissot                    Laura                                                                                         
+        130 Atkinson                  Mozhe                                                                                         
+        131 Marlow                    James                                                                                         
+        132 Olson                     TJ                                                                                            
+        133 Mallin                    Jason                                                                                         
+        134 Rogers                    Michael                                                                                       
+        135 Gee                       Ki                                                                                            
+        136 Philtanker                Hazel                                                                                         
+PRESS RETURN TO CONTINUE
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME           COMMISSION_PCT                                                           
+----------- ------------------------- -------------------- --------------                                                           
+        137 Ladwig                    Renske                                                                                        
+        138 Stiles                    Stephen                                                                                       
+        139 Seo                       John                                                                                          
+        140 Patel                     Joshua                                                                                        
+        141 Rajs                      Trenna                                                                                        
+        142 Davies                    Curtis                                                                                        
+        143 Matos                     Randall                                                                                       
+        144 Vargas                    Peter                                                                                         
+        180 Taylor                    Winston                                                                                       
+        181 Fleaur                    Jean                                                                                          
+        182 Sullivan                  Martha                                                                                        
+        183 Geoni                     Girard                                                                                        
+        184 Sarchand                  Nandita                                                                                       
+        185 Bull                      Alexis                                                                                        
+        186 Dellinger                 Julia                                                                                         
+        187 Cabrio                    Anthony                                                                                       
+        188 Chung                     Kelly                                                                                         
+        189 Dilly                     Jennifer                                                                                      
+        190 Gates                     Timothy                                                                                       
+        191 Perkins                   Randall                                                                                       
+        192 Bell                      Sarah                                                                                         
+        193 Everett                   Britney                                                                                       
+        194 McCain                    Samuel                                                                                        
+        195 Jones                     Vance                                                                                         
+        196 Walsh                     Alana                                                                                         
+        197 Feeney                    Kevin                                                                                         
+
+107 rows selected.
+
+PRESS RETURN TO CONTINUE
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY NEW_SALARY                                                    
+----------- ------------------------- -------------------- ---------- -----------------------                                       
+        100 King                      Steven                    24000              $27,600.00                                       
+        101 Kochhar                   Neena                     17000              $19,550.00                                       
+        102 De Haan                   Lex                       17000              $19,550.00                                       
+        108 Greenberg                 Nancy                     12008              $13,809.00                                       
+        114 Raphaely                  Den                       11000              $12,650.00                                       
+        145 Russell                   John                      14000              $16,100.00                                       
+        146 Partners                  Karen                     13500              $15,525.00                                       
+        147 Errazuriz                 Alberto                   12000              $13,800.00                                       
+        148 Cambrault                 Gerald                    11000              $12,650.00                                       
+        149 Zlotkey                   Eleni                     10500              $12,075.00                                       
+        150 Tucker                    Peter                     10000              $11,500.00                                       
+        156 King                      Janette                   10000              $11,500.00                                       
+        162 Vishney                   Clara                     10500              $12,075.00                                       
+        168 Ozer                      Lisa                      11500              $13,225.00                                       
+        169 Bloom                     Harrison                  10000              $11,500.00                                       
+        174 Abel                      Ellen                     11000              $12,650.00                                       
+        201 Hartstein                 Michael                   13000              $14,950.00                                       
+        204 Baer                      Hermann                   10000              $11,500.00                                       
+        205 Higgins                   Shelley                   12008              $13,809.00                                       
+
+19 rows selected.
+
+PRESS RETURN TO CONTINUE
+INITCAP(LAST_NAME)        LENGTH(LAST_NAME)                                                                                         
+------------------------- -----------------                                                                                         
+Abel                                      4                                                                                         
+Ande                                      4                                                                                         
+Atkinson                                  8                                                                                         
+Austin                                    6                                                                                         
+Johnson                                   7                                                                                         
+Jones                                     5                                                                                         
+Mallin                                    6                                                                                         
+Markle                                    6                                                                                         
+Marlow                                    6                                                                                         
+Marvins                                   7                                                                                         
+Matos                                     5                                                                                         
+Mavris                                    6                                                                                         
+Mccain                                    6                                                                                         
+Mcewen                                    6                                                                                         
+Mikkilineni                              11                                                                                         
+Mourgos                                   7                                                                                         
+
+16 rows selected.
+
+PRESS RETURN TO CONTINUE
+LAST_NAME                 MONTHS_WORKED                                                                                             
+------------------------- -------------                                                                                             
+Mourgos                              11                                                                                             
+Zlotkey                              11                                                                                             
+Cambrault                            12                                                                                             
+Vollman                              14                                                                                             
+Errazuriz                            14                                                                                             
+Partners                             14                                                                                             
+Fripp                                14                                                                                             
+Russell                              15                                                                                             
+Hartstein                            15                                                                                             
+Weiss                                15                                                                                             
+Raphaely                             16                                                                                             
+Kaufling                             16                                                                                             
+Higgins                              17                                                                                             
+Greenberg                            17                                                                                             
+
+14 rows selected.
+
+PRESS RETURN TO CONTINUE
+LAST_NAME                 SALARY                                                                                                    
+------------------------- ------------------------------------------------------------                                              
+Cabrio                    $$$$$$$$$$$3000                                                                                           
+Feeney                    $$$$$$$$$$$3000                                                                                           
+Khoo                      $$$$$$$$$$$3100                                                                                           
+Walsh                     $$$$$$$$$$$3100                                                                                           
+Fleaur                    $$$$$$$$$$$3100                                                                                           
+Davies                    $$$$$$$$$$$3100                                                                                           
+Stiles                    $$$$$$$$$$$3200                                                                                           
+Taylor                    $$$$$$$$$$$3200                                                                                           
+McCain                    $$$$$$$$$$$3200                                                                                           
+Nayer                     $$$$$$$$$$$3200                                                                                           
+Bissot                    $$$$$$$$$$$3300                                                                                           
+Mallin                    $$$$$$$$$$$3300                                                                                           
+Dellinger                 $$$$$$$$$$$3400                                                                                           
+Rajs                      $$$$$$$$$$$3500                                                                                           
+Dilly                     $$$$$$$$$$$3600                                                                                           
+Ladwig                    $$$$$$$$$$$3600                                                                                           
+Chung                     $$$$$$$$$$$3800                                                                                           
+Everett                   $$$$$$$$$$$3900                                                                                           
+Bell                      $$$$$$$$$$$4000                                                                                           
+Bull                      $$$$$$$$$$$4100                                                                                           
+Lorentz                   $$$$$$$$$$$4200                                                                                           
+Sarchand                  $$$$$$$$$$$4200                                                                                           
+Whalen                    $$$$$$$$$$$4400                                                                                           
+Austin                    $$$$$$$$$$$4800                                                                                           
+Pataballa                 $$$$$$$$$$$4800                                                                                           
+Mourgos                   $$$$$$$$$$$5800                                                                                           
+Fay                       $$$$$$$$$$$6000                                                                                           
+PRESS RETURN TO CONTINUE
+LAST_NAME                 SALARY                                                                                                    
+------------------------- ------------------------------------------------------------                                              
+Ernst                     $$$$$$$$$$$6000                                                                                           
+Kumar                     $$$$$$$$$$$6100                                                                                           
+Johnson                   $$$$$$$$$$$6200                                                                                           
+Banda                     $$$$$$$$$$$6200                                                                                           
+Ande                      $$$$$$$$$$$6400                                                                                           
+Mavris                    $$$$$$$$$$$6500                                                                                           
+Vollman                   $$$$$$$$$$$6500                                                                                           
+Lee                       $$$$$$$$$$$6800                                                                                           
+Popp                      $$$$$$$$$$$6900                                                                                           
+Grant                     $$$$$$$$$$$7000                                                                                           
+Sewall                    $$$$$$$$$$$7000                                                                                           
+Tuvault                   $$$$$$$$$$$7000                                                                                           
+Marvins                   $$$$$$$$$$$7200                                                                                           
+Bates                     $$$$$$$$$$$7300                                                                                           
+Smith                     $$$$$$$$$$$7400                                                                                           
+Cambrault                 $$$$$$$$$$$7500                                                                                           
+Doran                     $$$$$$$$$$$7500                                                                                           
+Sciarra                   $$$$$$$$$$$7700                                                                                           
+Urman                     $$$$$$$$$$$7800                                                                                           
+Kaufling                  $$$$$$$$$$$7900                                                                                           
+Smith                     $$$$$$$$$$$8000                                                                                           
+Weiss                     $$$$$$$$$$$8000                                                                                           
+Olsen                     $$$$$$$$$$$8000                                                                                           
+Chen                      $$$$$$$$$$$8200                                                                                           
+Fripp                     $$$$$$$$$$$8200                                                                                           
+Gietz                     $$$$$$$$$$$8300                                                                                           
+Livingston                $$$$$$$$$$$8400                                                                                           
+PRESS RETURN TO CONTINUE
+LAST_NAME                 SALARY                                                                                                    
+------------------------- ------------------------------------------------------------                                              
+Taylor                    $$$$$$$$$$$8600                                                                                           
+Hutton                    $$$$$$$$$$$8800                                                                                           
+Hall                      $$$$$$$$$$$9000                                                                                           
+Hunold                    $$$$$$$$$$$9000                                                                                           
+Faviet                    $$$$$$$$$$$9000                                                                                           
+McEwen                    $$$$$$$$$$$9000                                                                                           
+Sully                     $$$$$$$$$$$9500                                                                                           
+Greene                    $$$$$$$$$$$9500                                                                                           
+Bernstein                 $$$$$$$$$$$9500                                                                                           
+Fox                       $$$$$$$$$$$9600                                                                                           
+Tucker                    $$$$$$$$$$10000                                                                                           
+Bloom                     $$$$$$$$$$10000                                                                                           
+King                      $$$$$$$$$$10000                                                                                           
+Baer                      $$$$$$$$$$10000                                                                                           
+Vishney                   $$$$$$$$$$10500                                                                                           
+Zlotkey                   $$$$$$$$$$10500                                                                                           
+Abel                      $$$$$$$$$$11000                                                                                           
+Raphaely                  $$$$$$$$$$11000                                                                                           
+Cambrault                 $$$$$$$$$$11000                                                                                           
+Ozer                      $$$$$$$$$$11500                                                                                           
+Errazuriz                 $$$$$$$$$$12000                                                                                           
+Greenberg                 $$$$$$$$$$12008                                                                                           
+Higgins                   $$$$$$$$$$12008                                                                                           
+Hartstein                 $$$$$$$$$$13000                                                                                           
+Partners                  $$$$$$$$$$13500                                                                                           
+Russell                   $$$$$$$$$$14000                                                                                           
+De Haan                   $$$$$$$$$$17000                                                                                           
+PRESS RETURN TO CONTINUE
+LAST_NAME                 SALARY                                                                                                    
+------------------------- ------------------------------------------------------------                                              
+Kochhar                   $$$$$$$$$$17000                                                                                           
+King                      $$$$$$$$$$24000                                                                                           
+
+83 rows selected.
+
+PRESS RETURN TO CONTINUE
+LAST_NAME                 FIRST_NAME               SALARY COMMISSION_PCT BONUS                                                      
+------------------------- -------------------- ---------- -------------- -----------------------                                    
+Abel                      Ellen                     11000             .3              $14,300.00                                    
+Ande                      Sundar                     6400             .1               $7,040.00                                    
+Banda                     Amit                       6200             .1               $6,820.00                                    
+Bates                     Elizabeth                  7300            .15               $8,395.00                                    
+Bernstein                 David                      9500            .25              $11,875.00                                    
+Bloom                     Harrison                  10000             .2              $12,000.00                                    
+Cambrault                 Gerald                    11000             .3              $14,300.00                                    
+Cambrault                 Nanette                    7500             .2               $9,000.00                                    
+De Haan                   Lex                       17000                No Bonus                                                   
+Doran                     Louise                     7500             .3               $9,750.00                                    
+Errazuriz                 Alberto                   12000             .3              $15,600.00                                    
+Fox                       Tayler                     9600             .2              $11,520.00                                    
+Greene                    Danielle                   9500            .15              $10,925.00                                    
+Hall                      Peter                      9000            .25              $11,250.00                                    
+Hutton                    Alyssa                     8800            .25              $11,000.00                                    
+Johnson                   Charles                    6200             .1               $6,820.00                                    
+King                      Janette                   10000            .35              $13,500.00                                    
+King                      Steven                    24000                No Bonus                                                   
+Kochhar                   Neena                     17000                No Bonus                                                   
+Kumar                     Sundita                    6100             .1               $6,710.00                                    
+Lee                       David                      6800             .1               $7,480.00                                    
+Livingston                Jack                       8400             .2              $10,080.00                                    
+Marvins                   Mattea                     7200             .1               $7,920.00                                    
+McEwen                    Allan                      9000            .35              $12,150.00                                    
+Olsen                     Christopher                8000             .2               $9,600.00                                    
+Ozer                      Lisa                      11500            .25              $14,375.00                                    
+Partners                  Karen                     13500             .3              $17,550.00                                    
+PRESS RETURN TO CONTINUE
+LAST_NAME                 FIRST_NAME               SALARY COMMISSION_PCT BONUS                                                      
+------------------------- -------------------- ---------- -------------- -----------------------                                    
+Russell                   John                      14000             .4              $19,600.00                                    
+Sewall                    Sarath                     7000            .25               $8,750.00                                    
+Smith                     Lindsey                    8000             .3              $10,400.00                                    
+Smith                     William                    7400            .15               $8,510.00                                    
+Sully                     Patrick                    9500            .35              $12,825.00                                    
+Taylor                    Jonathon                   8600             .2              $10,320.00                                    
+Tucker                    Peter                     10000             .3              $13,000.00                                    
+Tuvault                   Oliver                     7000            .15               $8,050.00                                    
+Vishney                   Clara                     10500            .25              $13,125.00                                    
+Zlotkey                   Eleni                     10500             .2              $12,600.00                                    
+
+37 rows selected.
+
+PRESS RETURN TO CONTINUE
+LAST_NAME                 FIRST_NAME           GR                                                                                   
+------------------------- -------------------- --                                                                                   
+King                      Steven               A                                                                                    
+Bloom                     Harrison             D                                                                                    
+Ozer                      Lisa                 D                                                                                    
+Vishney                   Clara                D                                                                                    
+King                      Janette              D                                                                                    
+Tucker                    Peter                D                                                                                    
+Abel                      Ellen                D                                                                                    
+Partners                  Karen                NA                                                                                   
+Errazuriz                 Alberto              NA                                                                                   
+Cambrault                 Gerald               NA                                                                                   
+Zlotkey                   Eleni                NA                                                                                   
+Russell                   John                 NA                                                                                   
+Raphaely                  Den                  NA                                                                                   
+Greenberg                 Nancy                NA                                                                                   
+De Haan                   Lex                  NA                                                                                   
+Kochhar                   Neena                NA                                                                                   
+Higgins                   Shelley              NA                                                                                   
+Hartstein                 Michael              NA                                                                                   
+Baer                      Hermann              NA                                                                                   
+
+19 rows selected.
+
+PRESS RETURN TO CONTINUE
+LAST_NAME                 FIRST_NAME           GR                                                                                   
+------------------------- -------------------- --                                                                                   
+King                      Steven               A                                                                                    
+Bloom                     Harrison             D                                                                                    
+Ozer                      Lisa                 D                                                                                    
+Vishney                   Clara                D                                                                                    
+King                      Janette              D                                                                                    
+Tucker                    Peter                D                                                                                    
+Abel                      Ellen                D                                                                                    
+Partners                  Karen                NA                                                                                   
+Errazuriz                 Alberto              NA                                                                                   
+Cambrault                 Gerald               NA                                                                                   
+Zlotkey                   Eleni                NA                                                                                   
+Russell                   John                 NA                                                                                   
+Raphaely                  Den                  NA                                                                                   
+Greenberg                 Nancy                NA                                                                                   
+De Haan                   Lex                  NA                                                                                   
+Kochhar                   Neena                NA                                                                                   
+Higgins                   Shelley              NA                                                                                   
+Hartstein                 Michael              NA                                                                                   
+Baer                      Hermann              NA                                                                                   
+
+19 rows selected.
+

@@ -1,0 +1,100 @@
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+Comment created.
+
+
+View dropped.
+
+
+View created.
+
+ Name                                                                     Null?    Type
+ ------------------------------------------------------------------------ -------- -------------------------------------------------
+ HOTELNO                                                                  NOT NULL VARCHAR2(9)
+ HOTELNAME                                                                NOT NULL VARCHAR2(15)
+ CITY                                                                     NOT NULL VARCHAR2(30)
+
+PRESS RETURN TO CONTINUE
+HOTELNO   HOTELNAME       CITY                                                                                                      
+--------- --------------- ------------------------------                                                                            
+H001      Sun Shine       San Bernardino                                                                                            
+H002      King Stay       Riverside                                                                                                 
+H003      John Wick       Ontario                                                                                                   
+H004      Iron Man        Montclair                                                                                                 
+
+
+View dropped.
+
+
+View created.
+
+ Name                                                                     Null?    Type
+ ------------------------------------------------------------------------ -------- -------------------------------------------------
+ HOTELNO                                                                  NOT NULL VARCHAR2(9)
+ HOTELNAME                                                                NOT NULL VARCHAR2(15)
+ CITY                                                                     NOT NULL VARCHAR2(30)
+ GUESTNO                                                                  NOT NULL VARCHAR2(9)
+ GUESTNAME                                                                         VARCHAR2(25)
+
+PRESS RETURN TO CONTINUE
+HOTELNO   HOTELNAME       CITY                           GUESTNO   GUESTNAME                                                        
+--------- --------------- ------------------------------ --------- -------------------------                                        
+H002      King Stay       Riverside                      G002      Berry Benson                                                     
+
+
+View dropped.
+
+
+View created.
+
+PRESS RETURN TO CONTINUE
+HOTELNO        PRICE TYPE_ROOM       ROOMNO                                                                                         
+--------- ---------- --------------- ---------                                                                                      
+H003             200 Luxury          L01                                                                                            
+H003             600 Queen           R01                                                                                            
+H003             500 King            X01                                                                                            
+
+
+View dropped.
+
+
+View created.
+
+ Name                                                                     Null?    Type
+ ------------------------------------------------------------------------ -------- -------------------------------------------------
+ GUESTNO                                                                  NOT NULL VARCHAR2(9)
+ GUESTNAME                                                                         VARCHAR2(25)
+ GUESTADDRESS                                                                      VARCHAR2(40)
+
+PRESS RETURN TO CONTINUE
+GUESTNO   GUESTNAME                 GUESTADDRESS                                                                                    
+--------- ------------------------- ----------------------------------------                                                        
+G002      Berry Benson              134 Main street, Riverside 92403                                                                
+
+
+View dropped.
+
+
+View created.
+
+ Name                                                                     Null?    Type
+ ------------------------------------------------------------------------ -------- -------------------------------------------------
+ HOTELNO                                                                  NOT NULL VARCHAR2(9)
+ CITY                                                                     NOT NULL VARCHAR2(30)
+ ROOMNO                                                                   NOT NULL VARCHAR2(9)
+ TYPE_ROOM                                                                         VARCHAR2(15)
+ PRICE                                                                             NUMBER(38)
+
+PRESS RETURN TO CONTINUE
+HOTELNO   HOTELNAME       CITY                           TYPE_ROOM            PRICE                                                 
+--------- --------------- ------------------------------ --------------- ----------                                                 
+H003      John Wick       Ontario                        Luxury                 200                                                 
+

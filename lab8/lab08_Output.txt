@@ -1,0 +1,86 @@
+Enter value for location_id: 1700
+old   6:         WHERE location_ID = '&location_ID')
+new   6:         WHERE location_ID = '1700')
+
+EMPLOYEE_ID LAST_NAME                                                                                                               
+----------- -------------------------                                                                                               
+        100 King                                                                                                                    
+        101 Kochhar                                                                                                                 
+        102 De Haan                                                                                                                 
+        108 Greenberg                                                                                                               
+        109 Faviet                                                                                                                  
+        110 Chen                                                                                                                    
+        111 Sciarra                                                                                                                 
+        112 Urman                                                                                                                   
+        113 Popp                                                                                                                    
+        114 Raphaely                                                                                                                
+        115 Khoo                                                                                                                    
+        116 Baida                                                                                                                   
+        117 Tobias                                                                                                                  
+        118 Himuro                                                                                                                  
+        119 Colmenares                                                                                                              
+        200 Whalen                                                                                                                  
+        205 Higgins                                                                                                                 
+        206 Gietz                                                                                                                   
+
+18 rows selected.
+
+Enter value for last_name: King
+old   6:         WHERE last_name = '&last_name')
+new   6:         WHERE last_name = 'King')
+
+EMPLOYEE_ID LAST_NAME                 JOB_ID                                                                                        
+----------- ------------------------- ----------                                                                                    
+        100 King                      AD_PRES                                                                                       
+        101 Kochhar                   AD_VP                                                                                         
+        102 De Haan                   AD_VP                                                                                         
+        145 Russell                   SA_MAN                                                                                        
+        146 Partners                  SA_MAN                                                                                        
+        147 Errazuriz                 SA_MAN                                                                                        
+        148 Cambrault                 SA_MAN                                                                                        
+        149 Zlotkey                   SA_MAN                                                                                        
+        150 Tucker                    SA_REP                                                                                        
+        151 Bernstein                 SA_REP                                                                                        
+        152 Hall                      SA_REP                                                                                        
+        153 Olsen                     SA_REP                                                                                        
+        154 Cambrault                 SA_REP                                                                                        
+        155 Tuvault                   SA_REP                                                                                        
+        156 King                      SA_REP                                                                                        
+        157 Sully                     SA_REP                                                                                        
+        158 McEwen                    SA_REP                                                                                        
+        159 Smith                     SA_REP                                                                                        
+        160 Doran                     SA_REP                                                                                        
+        161 Sewall                    SA_REP                                                                                        
+        162 Vishney                   SA_REP                                                                                        
+        163 Greene                    SA_REP                                                                                        
+        164 Marvins                   SA_REP                                                                                        
+        165 Lee                       SA_REP                                                                                        
+        166 Ande                      SA_REP                                                                                        
+        167 Banda                     SA_REP                                                                                        
+        168 Ozer                      SA_REP                                                                                        
+
+EMPLOYEE_ID LAST_NAME                 JOB_ID                                                                                        
+----------- ------------------------- ----------                                                                                    
+        169 Bloom                     SA_REP                                                                                        
+        170 Fox                       SA_REP                                                                                        
+        171 Smith                     SA_REP                                                                                        
+        172 Bates                     SA_REP                                                                                        
+        173 Kumar                     SA_REP                                                                                        
+        174 Abel                      SA_REP                                                                                        
+        175 Hutton                    SA_REP                                                                                        
+        176 Taylor                    SA_REP                                                                                        
+        177 Livingston                SA_REP                                                                                        
+        179 Johnson                   SA_REP                                                                                        
+
+37 rows selected.
+
+Enter value for department_name: Executive
+old   6:         WHERE department_name = '&department_name')
+new   6:         WHERE department_name = 'Executive')
+
+EMPLOYEE_ID LAST_NAME                 JOB_ID     DEPARTMENT_ID                                                                      
+----------- ------------------------- ---------- -------------                                                                      
+        100 King                      AD_PRES               90                                                                      
+        101 Kochhar                   AD_VP                 90                                                                      
+        102 De Haan                   AD_VP                 90                                                                      
+

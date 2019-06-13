@@ -1,0 +1,92 @@
+
+Constraint set.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Constraint set.
+
+
+HOTELNO   HOTELNAME       CITY                                                                                                      
+--------- --------------- ------------------------------                                                                            
+H001      Sun Shine       San Bernardino                                                                                            
+H002      King Stay       Riverside                                                                                                 
+H003      John Wick       Ontario                                                                                                   
+H004      Iron Man        Montclair                                                                                                 
+
+
+ROOMNO    HOTELNO   TYPE_ROOM            PRICE                                                                                      
+--------- --------- --------------- ----------                                                                                      
+L01       H001      Luxury                 200                                                                                      
+D02       H002      Double                 100                                                                                      
+R01       H003      Queen                  600                                                                                      
+X01       H004      King                   500                                                                                      
+
+
+HOTELNO   GUESTNO   DATEFROM  DATETO    ROOMNO                                                                                      
+--------- --------- --------- --------- ---------                                                                                   
+H001      G001      04-JAN-19 08-JAN-19 L01                                                                                         
+H002      G001      11-FEB-19 15-FEB-19 D02                                                                                         
+H003      G002      09-MAR-19 14-MAR-19 R01                                                                                         
+H002      G002      12-DEC-19 15-DEC-19 D02                                                                                         
+H004      G003      05-NOV-19 15-NOV-19 X01                                                                                         
+H002      G003      18-JUL-19 21-JUL-19 L01                                                                                         
+
+6 rows selected.
+
+
+GUESTNO   GUESTNAME                 GUESTADDRESS                                                                                    
+--------- ------------------------- ----------------------------------------                                                        
+G001      Larry Whites              124 Main street, Riverside 92403                                                                
+G002      Berry Benson              134 Main street, Riverside 92403                                                                
+G003      Pegasus Harrington        144 Main street, Riverside 92403                                                                
+

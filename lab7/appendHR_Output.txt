@@ -1,0 +1,206 @@
+
+Constraint set.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+
+Constraint set.
+
+
+SSN       FNAME           M LNAME           BDATE     ADDRESS                        S     SALARY SUPER_SSN        DNO              
+--------- --------------- - --------------- --------- ------------------------------ - ---------- --------- ----------              
+888665555 James           E Borg            10-NOV-37 450 Stone, Houston, TX         M      55000                    1              
+333445555 Franklin        T Wong            08-DEC-73 638 Voss, Houston, TX          M      40000 888665555          5              
+123456789 John            B Smith           09-JAN-65 731 Fondren, Houston, TX       M      30000 333445555          5              
+987654321 Jennifer        S Wallace         20-JUN-50 291 Berry, Bellaire, TX        F      43000 888665555          4              
+999887777 Alice           J Zelaya          19-JAN-68 3321 Castle, Spring, TX        F      25000 987654321          4              
+666884444 Ramesh          K Narayan         15-SEP-62 975 Fire Oak, Humble, TX       M      38000 333445555          5              
+453453453 Joyce           A English         31-JUL-72 5631 Rice, Houston, TX         F      25000 333445555          5              
+987987987 Ahmad           V Jabbar          29-MAR-69 980 Dallas, Houston, TX        M      25000 987654321          4              
+
+8 rows selected.
+
+
+   DNUMBER DNAME           MGR_SSN   MGR_START                                                                                      
+---------- --------------- --------- ---------                                                                                      
+         2 Operations      123456789 01-JAN-05                                                                                      
+         5 Research        333445555 22-MAY-88                                                                                      
+         4 Administration  987654321 01-JAN-95                                                                                      
+         1 Headquarters    888665555 19-JUN-81                                                                                      
+
+
+   PNUMBER PNAME           PLOCATION               DNUMBER                                                                          
+---------- --------------- -------------------- ----------                                                                          
+         1 ProductX        Bellaire                      5                                                                          
+         2 ProductY        Sugarland                     5                                                                          
+         3 ProductZ        Houston                       5                                                                          
+        10 Computerization Stafford                      4                                                                          
+        20 Reorganization  Houston                       1                                                                          
+        30 Newbenefits     Stafford                      4                                                                          
+
+6 rows selected.
+
+
+ESSN      DEPENDENT_NAME  S BDATE     RELATIONSHIP                                                                                  
+--------- --------------- - --------- --------------------                                                                          
+999887777 Alice           F 05-APR-86 Daughter                                                                                      
+999887777 Theodore        M 25-OCT-83 Son                                                                                           
+999887777 Joy             F 03-MAY-58 Spouse                                                                                        
+987654321 Abner           M 28-FEB-48 Spouse                                                                                        
+123456789 Michael         M 04-JAN-88 Son                                                                                           
+123456789 Alice           F 30-DEC-88 Daughter                                                                                      
+123456789 Elizabeth       F 05-MAY-67 Spouse                                                                                        
+
+7 rows selected.
+
+
+ESSN             PNO      HOURS                                                                                                     
+--------- ---------- ----------                                                                                                     
+123456789          1       32.5                                                                                                     
+123456789          2        7.5                                                                                                     
+666884444          3         40                                                                                                     
+453453453          1         20                                                                                                     
+453453453          2         20                                                                                                     
+333445555          2         10                                                                                                     
+333445555          3         10                                                                                                     
+333445555         10         10                                                                                                     
+333445555         20         10                                                                                                     
+999887777         30         30                                                                                                     
+999887777         10         10                                                                                                     
+987987987         10         35                                                                                                     
+987987987         30          5                                                                                                     
+987654321         30         20                                                                                                     
+987654321         20         15                                                                                                     
+
+15 rows selected.
+
