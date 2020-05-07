@@ -1,2 +1,4 @@
 # cse572
-Database Course programming in sql and containing a project for a university database (mock).
+Database Course primarily learning MySQL. Each lab had a different learning curve with each one incorporating something from a previous section with a new one this section. 
+Such as learning about joining tables or getting information using left join, or inner join, or right join, etc... each one using something previous while adding on to get a firm understanding on how to properly get data when needed from specific data. 
+Also having a project for a mock database for a university that was helpful in understading what goes into making a database. Specifically the relationship with the ER diagram and the EER diagram. After it was adding in the tables and adding in the Foreign keys and Primary keys as specified. Then adding the data and creating the views and reports for the data. 
